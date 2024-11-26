@@ -24,7 +24,7 @@
      - Регресция
 
 ## Мой любимый фильм 🎬
-[Мой любимый филимм]([https://www.example.com](https://rutube.ru/video/440dfda55c85b9370da882150dc4056d/)) - это <Название филма>.
+[Мой любимый филимм][https://www.example.com](https://rutube.ru/video/440dfda55c85b9370da882150dc4056d/) - это <Название филма>.
 
 ## Изображение 🌅
 

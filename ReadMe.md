@@ -28,7 +28,7 @@
 
 ## Изображение 🌅
 
-![Пример изображения]([https://via.placeholder.com/150]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fimg-webcalypt.ru%2Ftools%2Fmeme-generator%2F403&psig=AOvVaw1PdcxvHhgAKPnwLoGnqr0G&ust=1732730444668000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjktYjK-okDFQAAAAAdAAAAABAE](https://img-webcalypt.ru/uploads/admin/images/meme-templates/05f68579100c5e959a0ea3df9bfcfb5d.jpg)
+![Пример изображения](https://img-webcalypt.ru/uploads/admin/images/meme-templates/05f68579100c5e959a0ea3df9bfcfb5d.jpg)
 
 ## Таблица проэктова 🌟
 

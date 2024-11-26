@@ -24,11 +24,11 @@
      - 52,3
 
 ## Мой любимый фильм 🎬
-[Мой любимый филимм][https://www.example.com](https://rutube.ru/video/440dfda55c85b9370da882150dc4056d/) .
+Мой любимый филимм[https://www.example.com](https://rutube.ru/video/440dfda55c85b9370da882150dc4056d/) .
 
 ## Изображение 🌅
 
-([https://img-webcalypt.ru/uploads/admin/images/meme-templates/05f68579100c5e959a0ea3df9bfcfb5d.jpg](https://znanierussia.ru/articles/wmedia/wikipedia/commons/thumb/a/a3/Meme_m%C3%A8o_c%C6%B0%E1%BB%9Di.jpg/300px-Meme_m%C3%A8o_c%C6%B0%E1%BB%9Di.jpg)
+[https://img-webcalypt.ru/uploads/admin/images/meme-templates/05f68579100c5e959a0ea3df9bfcfb5d.jpg](https://znanierussia.ru/articles/wmedia/wikipedia/commons/thumb/a/a3/Meme_m%C3%A8o_c%C6%B0%E1%BB%9Di.jpg/300px-Meme_m%C3%A8o_c%C6%B0%E1%BB%9Di.jpg
 
 ## Таблица 🌟
 

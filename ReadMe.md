@@ -28,15 +28,14 @@
 
 ## Изображение 🌅
 
-![Пример изображения]([https://img-webcalypt.ru/uploads/admin/images/meme-templates/05f68579100c5e959a0ea3df9bfcfb5d.jpg](https://znanierussia.ru/articles/wmedia/wikipedia/commons/thumb/a/a3/Meme_m%C3%A8o_c%C6%B0%E1%BB%9Di.jpg/300px-Meme_m%C3%A8o_c%C6%B0%E1%BB%9Di.jpg)
+!([https://img-webcalypt.ru/uploads/admin/images/meme-templates/05f68579100c5e959a0ea3df9bfcfb5d.jpg](https://znanierussia.ru/articles/wmedia/wikipedia/commons/thumb/a/a3/Meme_m%C3%A8o_c%C6%B0%E1%BB%9Di.jpg/300px-Meme_m%C3%A8o_c%C6%B0%E1%BB%9Di.jpg)
 
-## Таблица проэктова 🌟
+## Таблица 🌟
 
-| Proeakt | Язык | Статус |
-|------------
-| Вёб-приложень | JavaScript | Завершен |
-| Mobiljnoe prilogenskoe | | | В процесс 
-| Annaliz dannyх | Pittohn | Нахат |
+| LEFT | CENTER | RIGHT |
+|----------------|:---------:|----------------:|
+| По левому краю | По центру | По правому краю |
+| текст | текст | текст |
 
 ## Заклушенье
 В этих революционных в излучных и в проректорах попогутов в изменных и в совершенном. Если у вас эстть вопросы, не стесняюсь обрызтьс€! 😊
